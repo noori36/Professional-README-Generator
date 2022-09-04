@@ -1,24 +1,3 @@
-
-
-## Usage
-
-Generating Professional README.md files 
-
-
-## Video
-
-
-<p>To View the Video: <a href="https://drive.google.com/file/d/1z143MG2gltlaBp-d7DmlggEckM6AAdLm/preview"> Click Here</a></p>
-
-
-## Screenshots
-
-<br><img src="./assets/images/screen1.png" alt="screenshot of starting page" width="350"/>
-
-<p>To view the sample README.md file generated, <a href="./samplereadme.json.md">Click Here</a></p>
-
-
-
 # Professional Readme Generator
 
   CLI application to create a high-quality readme file.
@@ -41,24 +20,30 @@ SO THAT I can quickly create a professional README for a new project
 
 
   ## Installation:
-  '''
-  1- Install node.js  
-  2- Install inquirer
-  3- git clone URL OF THE REPO
-  4- From terminal run “node index.js”
   
-  '''
-
+  <br>1- Install node.js  
+  <br>2- Install inquirer
+  <br>3- git clone URL OF THE REPO
+  <br>4- From terminal run “node index.js”
+ 
 
   ## Usage
   Create a professional readme.md file easily and quickly.
 
   [The URL of the GitHub repository.](https://github.com/noori36/Professional-README-Generator)
-  <br><img src="./assests/images/screen" alt="screenshot of starting page" width="350"/>
+  
+    - Screenshot
+  <br><img src="./assests/images/screen.png" alt="screenshot of starting page" width="350"/>
+  
+  - Walkthrouh Video:
+
+    <p>To View the Video: <a href="https://drive.google.com/file/d/1z143MG2gltlaBp-d7DmlggEckM6AAdLm/preview"> Click Here</a></p>
+    
+  - <p><a href="./ReadmeGenerator.md">Sample README.md file generated</a></p>
  
 
   ## Contributing:
-  ‘’’To contribute to this application:
+  To contribute to this application:
   <br> - Clone the repo 
   <br> - Create a feature branch 
   <br> - Commit your new feature 
