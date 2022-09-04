@@ -35,7 +35,7 @@ SO THAT I can quickly create a professional README for a new project
   <br><img src="./assets/images/screenshot.png" alt="screenshot of generated Readme" width="350"/>
 
   
-  - <a href="https://drive.google.com/file/d/1frPcKCF6me5XFSVb4NPXX92wk84tJtm-/view?usp=sharing"> Walkthrouh Video</a>
+  - <a href="https://drive.google.com/file/d/1frPcKCF6me5XFSVb4NPXX92wk84tJtm-/view?usp=sharing"> Walkthrough Video</a>
     
   - <a href="./ReadmeGenerator.md">Sample README.md File Generated</a>
   -   [The URL of the GitHub Repository.](https://github.com/noori36/Professional-README-Generator)
