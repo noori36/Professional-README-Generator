@@ -32,7 +32,7 @@ SO THAT I can quickly create a professional README for a new project
 
   [The URL of the GitHub repository.](https://github.com/noori36/Professional-README-Generator)
   
-    - Screenshot
+  - Screenshot
   <br><img src="./assests/images/screen.png" alt="screenshot of starting page" width="350"/>
   
   - Walkthrouh Video:
@@ -60,7 +60,7 @@ SO THAT I can quickly create a professional README for a new project
   * GitHub Email: (mailto:ladybird229@msnl.com)
   
 
-##License
+## License
 
 License used for this project - Apache
     
