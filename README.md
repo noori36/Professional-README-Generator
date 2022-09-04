@@ -1,57 +1,4 @@
-# Professional README Generator
 
-
-## Title
-
-README Generator
-
-## Table of Contents 
-
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Video](#video)
-- [Screenshots](#screenshots)
-
-
-## User Story
-```
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
-```
-
-## Acceptance Criteria
-```
-GIVEN a command-line application that accepts user input
-WHEN a user is prompted for information about their application repository
-THEN a high-quality, professional README.md is generated with the title of their project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
-
-WHEN a user enter their project title
-THEN this is displayed as the title of the README.
-
-WHEN a user enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests.
-
-WHEN a user chooses a license for their application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under.
-
-WHEN a user enters their GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile.
-
-WHEN a user enters their email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions.
-
-WHEN a user clicks on the links in the Table of Contents
-THEN a user is taken to the corresponding section of the README.
-```
-
-
-
-## Installation
-
-Install node.js, then install inquirer
 
 ## Usage
 
@@ -75,18 +22,25 @@ Generating Professional README.md files
 # Professional Readme Generator
 
   CLI application to create a high-quality readme file.
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
  
   ## Table of Contents
 
-  1. [Description](#description)
+  1. [User Story(#userstory)
   2. [Installation](#installation)
   3. [Usage](#usgae)
   3. [Contributing](#contributing)
   4. [Credits](#credits)
   4. [Authors and Acknowledgment](#authors%20and%20acknowledgment)
   5. [License](#license)
+
+
+## User Story
+```
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+```
 
 
   ## Installation:
