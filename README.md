@@ -32,7 +32,7 @@ SO THAT I can quickly create a professional README for a new project
   Create a professional readme.md file easily and quickly.
   
   - Screenshot
-  <br><img src="./assests/images/screenshot.png" alt="screenshot of generated Readme" width="350"/>
+  <br><img src="/assests/images/screenshot.png" alt="screenshot of generated Readme" width="350"/>
   
   - <p><a href="https://drive.google.com/file/d/1z143MG2gltlaBp-d7DmlggEckM6AAdLm/preview"> Walkthrouh Video</a></p>
     
