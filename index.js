@@ -6,7 +6,7 @@ const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 // Create an array of questions for user input
-const questions = [{
+const questionsArr = [{
         type: 'input',
         name: 'title',
         message: 'What is the title of your project? (Required)',
@@ -62,13 +62,7 @@ const questions = [{
 
     {
         type: 'input',
-        message: 'Upload app screenshot (include the proper path for image)',
-        name: 'upload',
-    },
-
-    {
-        type: 'input',
-        message: 'Upload app screenshot (include the proper path for image)',
+        message: 'what is the git repo for project?',
         name: 'link',
         validate: linkInput => {
             if (linkInput) {
@@ -172,10 +166,11 @@ const questions = [{
 // Create a function to initialize app
 function init() {
     inquirer
-        .prompt(questions)
+        .prompt(questionsArr)
         .then(data => {
             console.log(data);
-            const filename = `${data.title.toLowerCase().split(' ').join('')}.json`;
+            //const filename = `${data.title.split(' ').join('')}.json`;
+            const filename = `${data.title.split(' ').join('')}`;
 
             writeToFile(filename, data);
         });

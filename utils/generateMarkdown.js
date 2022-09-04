@@ -35,7 +35,6 @@ function renderLicenseSection(licenseInput) {
     ## License
 
     License used for this project - ${licenseInput}
-    ---
     `
   } else {
     return ''
@@ -62,30 +61,34 @@ function generateMarkdown(data) {
   5. [License](#license)
 
 
-  ## Installation:
-  '''
+  ## Installation
     ${data.installation}
-  '''
+  
 
 
   ## Usage
+
   ${data.usage}
 
-  The URL of the GitHub repository. ${data.clone}
-  <br><img src="${data.upload}" alt="screenshot of starting page" width="350"/>
- 
+  - To run this project locally:
+    <br>- Clone repo: git clone ${data.clone}
+    <br>- From terminal, run "node index.js"
+    <br>- Then answer the prompt questions.
 
-  ## Contributing:
+
+  ## Contributing
   ${data.contribution}
 
   
-  ## Authors and Acknowledgments
-
+  ## Authors
+  
   ${data.author}
 
-  ## Contact Information:
+  ## Questions:
 
-  * GitHub Username: (https://github.com/${data.userName})
+  In case of any questions, reach out to me on below email address.
+
+  * GitHub Profile: (https://github.com/${data.userName})
   * GitHub Email: (mailto:${data.userEmail})
   
 
