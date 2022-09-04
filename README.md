@@ -22,25 +22,22 @@ Generating Professional README.md files
 # Professional Readme Generator
 
   CLI application to create a high-quality readme file.
-
- 
-  ## Table of Contents
-
-  1. [User Story(#userstory)
-  2. [Installation](#installation)
-  3. [Usage](#usgae)
-  3. [Contributing](#contributing)
-  4. [Credits](#credits)
-  4. [Authors and Acknowledgment](#authors%20and%20acknowledgment)
-  5. [License](#license)
-
-
-## User Story
+  
+ ## User Story
 ```
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
+
+ 
+  ## Table of Contents
+
+  1. [Installation](#installation)
+  1. [Usage](#usgae)
+  3. [Contributing](#contributing)
+  4. [Authors](#authors%20and%20acknowledgment)
+  5. [License](#license)
 
 
   ## Installation:
