@@ -20,12 +20,13 @@ SO THAT I can quickly create a professional README for a new project
 
 
   ## Installation:
-  
-  1- Install node.js  
-  2- Install inquirer
-  <br>3- git clone URL OF THE REPO
-  <br>4- From terminal run “node index.js”
- 
+    ```
+      1- Install node.js  
+      2- Install inquirer
+      <br>3- git clone URL OF THE REPO
+      <br>4- From terminal run “node index.js”
+     ``` 
+
 
   ## Usage
   Create a professional readme.md file easily and quickly.
@@ -43,6 +44,7 @@ SO THAT I can quickly create a professional README for a new project
 
   ## Contributing:
   To contribute to this application:
+  ```
   <br> - Clone the repo 
   <br> - Create a feature branch 
   <br> - Commit your new feature 
@@ -50,7 +52,7 @@ SO THAT I can quickly create a professional README for a new project
   <br> - Create a new Pull Request 
   <br> - Request a code review 
   <br> - After approval your feature will be merged
-
+  ```
   
   ## Authors
 
