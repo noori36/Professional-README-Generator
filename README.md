@@ -62,10 +62,8 @@ SO THAT I can quickly create a professional README for a new project
 
   ---
 
-  ##License
+##License
 
-  
-    ## License
-
-    License used for this project - Apache
-    ---
+License used for this project - Apache
+    
+ ---
