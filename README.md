@@ -34,12 +34,10 @@ SO THAT I can quickly create a professional README for a new project
   - Screenshot
   <br><img src="./assests/images/screen.png" alt="screenshot of starting page" width="350"/>
   
-  - Walkthrouh Video:
-
-    <p>To View the Video: <a href="https://drive.google.com/file/d/1z143MG2gltlaBp-d7DmlggEckM6AAdLm/preview"> Click Here</a></p>
+  - <p><a href="https://drive.google.com/file/d/1z143MG2gltlaBp-d7DmlggEckM6AAdLm/preview"> Walkthrouh Video</a></p>
     
-  - <p><a href="./ReadmeGenerator.md">Sample README.md file generated</a></p>
-  -   [The URL of the GitHub repository.](https://github.com/noori36/Professional-README-Generator)
+  - <p><a href="./ReadmeGenerator.md">Sample README.md File Generated</a></p>
+  -   [The URL of the GitHub Repository.](https://github.com/noori36/Professional-README-Generator)
  
 
   ## Contributing:
