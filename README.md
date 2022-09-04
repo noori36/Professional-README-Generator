@@ -56,9 +56,7 @@ SO THAT I can quickly create a professional README for a new project
   
   ## Authors
 
-  Noreen
-  * GitHub Profile: (https://github.com/noori36)
-  * GitHub Email: (mailto:ladybird229@msnl.com)
+  Noreen A
   
 
 ## License
