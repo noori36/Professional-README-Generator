@@ -22,7 +22,7 @@ SO THAT I can quickly create a professional README for a new project
   ## Installation:
   
   <br>1- Install node.js  
-  <br>2- Install inquirer
+  2- Install inquirer
   <br>3- git clone URL OF THE REPO
   <br>4- From terminal run “node index.js”
  
