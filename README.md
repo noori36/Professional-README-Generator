@@ -60,10 +60,7 @@ SO THAT I can quickly create a professional README for a new project
   * GitHub Email: (mailto:ladybird229@msnl.com)
   
 
-  ---
-
 ##License
 
 License used for this project - Apache
     
- ---
