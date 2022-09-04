@@ -42,19 +42,30 @@ SO THAT I can quickly create a professional README for a new project
 
   ## Installation:
   '''
-    ‘’’ <br>1- Install node.js  <br> 2- Install inquirer  <br> 3- git clone URL OF THE REPO  <br> 4- From terminal run “node index.js”  <br>,,,
+  1- Install node.js  
+  2- Install inquirer
+  3- git clone URL OF THE REPO
+  4- From terminal run “node index.js”
+  
   '''
 
 
   ## Usage
   Create a professional readme.md file easily and quickly.
 
-  The URL of the GitHub repository. https://github.com/noori36/Professional-README-Generator
+  [The URL of the GitHub repository.](https://github.com/noori36/Professional-README-Generator)
   <br><img src="./assests/images/screen" alt="screenshot of starting page" width="350"/>
  
 
   ## Contributing:
-  ‘’’<br>To contribute to this application:<br> - Clone the repo <br> - Create a feature branch <br> - Commit your new feature <br> - Push your branch <br> - Create a new Pull Request <br> - Request a code review <br> - After approval your feature will be merged
+  ‘’’To contribute to this application:
+  <br> - Clone the repo 
+  <br> - Create a feature branch 
+  <br> - Commit your new feature 
+  <br> - Push your branch 
+  <br> - Create a new Pull Request 
+  <br> - Request a code review 
+  <br> - After approval your feature will be merged
 
   
   ## Authors
