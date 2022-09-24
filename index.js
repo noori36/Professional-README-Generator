@@ -9,7 +9,7 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questionsArr = [{
         type: 'input',
         name: 'title',
-        message: 'What is the title of your project? (Required)',
+        message: 'Enter the title of your project?',
         validate: titleInput => {
             if (titleInput) {
                 return true;
@@ -35,20 +35,20 @@ const questionsArr = [{
     
     {
         type: 'input',
-        message: 'What are the installation instructions for your project?',
+        message: 'Enter the installation instructions for your project?',
         name: 'installation',
         validate: installationInput => {
             if (installationInput) {
                 return true;
             } else {
-                console.log('You need to provide information on how to use project!');
+                console.log('You need to provide the installation instructions for the project!');
                 return false;
             }
         }
     },
     {
         type: 'input',
-        message: 'What will this project be used for?',
+        message: 'Project will be used for?',
         name: 'usage',
         validate: usageInput => {
             if (usageInput) {
@@ -62,7 +62,7 @@ const questionsArr = [{
 
     {
         type: 'input',
-        message: 'what is the git repo for project?',
+        message: 'what is the git repo for the project?',
         name: 'link',
         validate: linkInput => {
             if (linkInput) {
@@ -74,12 +74,10 @@ const questionsArr = [{
         }
     },
 
-    
-
     {
         type: 'input',
         name: 'contribution',
-        message: 'Are there any contribution guidelines?',
+        message: 'Are there any contribution guidelines or not?',
         validate: contributionInput => {
             if (contributionInput) {
                 return true;
@@ -91,7 +89,7 @@ const questionsArr = [{
     },
     {
         type: 'list',
-        message: 'Please select the license you used for this project:',
+        message: 'Select the license you used for this project:',
         name: 'license',
         choices: ['Apache 2.0', 'MIT', 'Apache', 'None' ],
         validate: licensingInput => {
@@ -169,12 +167,10 @@ function init() {
         .prompt(questionsArr)
         .then(data => {
             console.log(data);
-            //const filename = `${data.title.split(' ').join('')}.json`;
             const filename = `${data.title.split(' ').join('')}`;
 
             writeToFile(filename, data);
         });
-
 };
 
 // Create a function to write README file

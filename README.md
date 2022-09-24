@@ -37,21 +37,13 @@ SO THAT I can quickly create a professional README for a new project
   
   - <a href="https://drive.google.com/file/d/1frPcKCF6me5XFSVb4NPXX92wk84tJtm-/view?usp=sharing"> Walkthrough Video</a>
     
-  - <a href="./ReadmeGenerator.md">Sample README.md File Generated</a>
   -   [The URL of the GitHub Repository.](https://github.com/noori36/Professional-README-Generator)
+
+  - <a href="./ReadmeGenerator.md">Sample README.md File Generated</a>
  
 
   ## Contributing:
-  To contribute to this application:
-  ```
-  - Clone the repo 
-  - Create a feature branch 
-  - Commit your new feature 
-  - Push your branch 
-  - Create a new Pull Request 
-  - Request a code review 
-  - After approval your feature will be merged
-  ```
+  No contribution required at this point.
   
   ## Authors
 
