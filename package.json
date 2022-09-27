@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noori36/Professional-README-Generator.git"
+    "url": "https://github.com/noori36/Professional-README-Generator.git"
   },
   "author": "Noreen A",
   "license": "ISC",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/noori36/Professional-README-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.1.2"
+    "esm": "^3.2.25",
+    "inquirer": "^9.1.2",
+    "node.js": "^0.0.1-security"
   }
 }
