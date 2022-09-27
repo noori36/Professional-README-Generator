@@ -33,7 +33,6 @@ const questions = [
       name: "license",
       message: "Please select the license you used for this project.",
       choices: [
-        "ISC",
         "Mozilla",
         "MIT",
         "Apache",
