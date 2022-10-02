@@ -74,10 +74,6 @@ function generateMarkdown(data) {
   ## User Story
     
   ---
-  ## Acceptance Criteria
-    
-    
-  ---
   ## Visuals:
     ![]()
   ---
