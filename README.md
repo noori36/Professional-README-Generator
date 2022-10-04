@@ -33,13 +33,12 @@
     run `npm i'
     run `node index.js` to start the app.
     To clone the repo:
-        git clone https://github.com/noori36/Professional-README-Generator/
+        git clone https://github.com/noori36/Professional-README-Generator
     
   ---
   ## License
     License used for this project - Apache
-    * For more information on license types, please reference this website 
-      https://choosealicense.com/.
+    * For more information on license types, [please reference this website](https://choosealicense.com/)
   ---
   ## Contributing:
     
