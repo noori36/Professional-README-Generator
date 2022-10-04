@@ -29,6 +29,7 @@
     ![Sample Readme portion 1](https://github.com/noori36/Professional-README-Generator/blob/master/assets/images/screenshot1.png)
     ![Sample Readme portion 2](https://github.com/noori36/Professional-README-Generator/blob/master/assets/images/screenshot2.png)
     ![Alt text](https://github.com/noori36/Professional-README-Generator/blob/master/assets/images/screenshot2.png?raw=true "Optional Title")
+    <img src="./assets/images/screenshot1.png">
   ---
   ## Installation:
     install `node.js` 
