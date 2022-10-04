@@ -1,5 +1,5 @@
-# asa
-  as
+# README GENERATOR
+  CLI application to generate professional and high quality README.md file for the project.
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   <br>[A deployed version can be viewed here.](https://github.com/noori36/Professional-README-Generator)
   
@@ -15,7 +15,7 @@
   8. [Authors and acknowledgment](#authors%20and%20acknowledgment)
   ---
   ## About
-    ada
+    To create high quality README.md file from CLI.
   ---
   ## User Story
     
@@ -24,7 +24,7 @@
     ![]()
   ---
   ## Installation:
-    adas
+    Install node.js & Run npm i after cloning the repo
     To clone the repo:
         git clone https://github.com/noori36/Professional-README-Generator
     
@@ -34,7 +34,8 @@
   
 
       License used for this project - Apache
-      * For more information on license types, [please reference this website.](https://choosealicense.com/).
+      * For more information on license types, please reference this website
+      https://choosealicense.com/
       ---
     
   ---
@@ -50,12 +51,12 @@
     Following a code review, your feature will be merged.
   ---
   ## Tests:
-    
+    No tests are available at this time.
   ---
   ## Authors and Acknowledgments
-    sd
+    noori36@msn.com
   ---
   ## Contact Information:
-  * GitHub Username: [ds](https://github.com/noori36)
-  * GitHub Email: asd
+  * GitHub Username: [noori36](https://github.com/noori36)
+  * GitHub Email: noori36@msn.com
 
