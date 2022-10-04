@@ -69,7 +69,7 @@ const questions = [
     {
       type: "input",
       name: "repo",
-      message: "What is the URL of the github repo?",
+      message: "What is the URL of the github profile?",
     },
   ];
 
