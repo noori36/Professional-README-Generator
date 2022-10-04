@@ -27,7 +27,7 @@
   ---
   ## Visuals:
   
-   * [Walkthrough Video](https://drive.google.com/file/d/1l0CMudXpz1vBtf0Sgg-E6QptVZJRLOn2/view?usp=sharing target="_blank")
+   * [Walkthrough Video](https://drive.google.com/file/d/1l0CMudXpz1vBtf0Sgg-E6QptVZJRLOn2/view?usp=sharing)
    * Screenshots:
   ![Sample Readme portion 1](https://github.com/noori36/Professional-README-Generator/blob/master/assets/images/screenshot1.png?raw=true)
   ![Sample Readme portion 2](https://github.com/noori36/Professional-README-Generator/blob/master/assets/images/screenshot2.png?raw=true)
