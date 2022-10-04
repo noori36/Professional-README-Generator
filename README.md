@@ -33,7 +33,7 @@
     run `npm i'
     run `node index.js` to start the app.
     To clone the repo:
-        git clone https://github.com/noori36/Professional-README-Generator
+        git clone https://github.com/noori36/Professional-README-Generator/
     
   ---
   ## License
