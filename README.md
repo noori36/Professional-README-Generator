@@ -38,8 +38,8 @@
   ---
   ## License
     License used for this project - Apache
-    * For more information on license types, [please reference this website](https://choosealicense.com)
-    [please reference this website](https://choosealicense.com)
+    * For more information on license types, please reference this website.
+    https://choosealicense.com
   ---
   ## Contributing:
     
