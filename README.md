@@ -1,7 +1,7 @@
 # Professional-README-Generator
-  CLI application to generate high quality readme.md file for the project.
-  undefined
-  [A deployed version can be viewed here.](https://github.com/noori36/Professional-README-Generator)
+  CLI application to generate professional and high quality README.md file for the project.
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  <br>[A deployed version can be viewed here.](https://github.com/noori36/Professional-README-Generator)
   
   ---
   ## Contents
@@ -18,13 +18,20 @@
     CLI app to create professional readme file.
   ---
   ## User Story
+  ```
+  AS A developer
+  I WANT a README generator
+  SO THAT I can quickly create a professional README for a new project
+  ```
     
   ---
   ## Visuals:
     ![]()
   ---
   ## Installation:
-    install `node.js` and run `index.js` to run the app.
+    install `node.js` 
+    run `npm i'
+    run `node index.js` to start the app.
     To clone the repo:
         git clone https://github.com/noori36/Professional-README-Generator
     
@@ -52,5 +59,5 @@
     Noreen A
   ---
   ## Contact Information:
-  * GitHub Username: noori36
+  * GitHub Username: [noori36](https://github.com/noori36)
   * GitHub Email: noori36@msn.com
